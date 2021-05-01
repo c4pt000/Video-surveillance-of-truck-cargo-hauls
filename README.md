@@ -3,3 +3,6 @@ Video surveillance of the truck haul major truck lines of the inside of the carg
 
 
 For the authoritive level to cut down on stolen cargo, human trafficking
+
+Via GSM cellular transmission of data to remote monitoring / GPS
+
