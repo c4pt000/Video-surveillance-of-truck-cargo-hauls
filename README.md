@@ -6,3 +6,8 @@ For the authoritive level to cut down on stolen cargo, human trafficking
 
 Via GSM cellular transmission of data to remote monitoring / GPS
 
+Multi pin camera grid area upper 8x8
+
+If camera can't view a dark lit night image or receive light silent indicator on the remote side to show tampered with via location
+
+
